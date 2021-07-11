@@ -1,0 +1,159 @@
+*{
+    font-weight: normal;
+}
+
+.navbar{
+    height: 600px;
+    width: 1200px;
+    background-image:url(rogue_one.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 70px;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+.brand{
+    color: rgb(230, 224, 224);
+    font-size: 25px;
+    text-decoration: none;
+    margin-left: 60px;
+    margin-right: 360px;
+    float: left;
+}
+
+ul{
+    list-style-type: none;
+    text-decoration: none;
+   
+}
+li{
+    float: left;
+}
+
+a{
+    text-decoration: none;
+    color:rgb(230, 224, 224);
+    display: block;
+    font-size: 22px;
+    margin-left: 60px;
+}
+
+a:hover{
+    border-bottom: 3px solid rgb(31, 177, 235);
+}
+
+.background_knowledge{
+    color:beige
+  } 
+
+    .background_knowledge__title{
+         color: rgb(230, 224, 224);
+         font-size: 35px; 
+         font-weight: bold;
+         margin-top: 220px; 
+         margin-left: 120px; 
+         float: left;
+        }
+
+    .background_knowledge__p{
+        color: rgb(230, 224, 224);
+        font-size: 35px;  
+        margin-left: -180px; 
+        margin-top: 270px; 
+        float: left;
+        }
+
+.section{
+    height: 300px;
+    width: 1100px;
+    margin-left: 120px;
+    margin-top: -70px;
+}
+    .section__movie {
+        height: 300px;
+        width: 210px;
+        float: left;
+        margin-left: 10px;
+    }
+
+.option{
+    height: 50px;
+    width: 1110px;
+    margin-left: 140px;
+    margin-top: 90px;
+   
+}
+    .option__li{
+        color:rgb(65, 64, 64); 
+        font-size: 18px;
+
+     }
+
+    .option__li:hover{
+        border-bottom: 3px solid rgb(31, 177, 235);
+    }
+
+.movies{
+    height: 200px;
+    width: 1120px;
+    margin-left: 135px;
+    margin-top: 15px;
+}
+
+    .movies__1{
+        height: 180px;
+        width: 140px;
+        margin-left: 10px;
+    }
+
+.button{
+    height: 40px;
+    width: 200px;
+    background-color:rgb(31, 177, 235); 
+    border: none;
+    margin-left: 580px;
+    margin-top: 30px;
+    color: white;
+    
+}
+
+.footer{
+    width: 1300px;
+    height: 300px;
+    background-color: rgb(58, 57, 57);
+    margin-top: 50px;
+    margin-left: 30px;
+    border-radius:5px ;
+
+}
+    .footer__h2{
+        color: rgb(230, 224, 224); 
+        font-size: 25px; 
+        margin-left:90px; 
+        margin-top: 70px;
+    }
+
+    .footer__media{
+        margin-top: 40px;
+        margin-left:-10px;
+    }
+    .footer__p{
+        color:rgb(230, 224, 224); 
+        margin-top:150px; 
+        text-align: center;
+    }
+
+
+
+
+
+
+
+
+    
+
+    
+
