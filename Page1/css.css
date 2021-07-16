@@ -42,6 +42,10 @@ a{
     margin-left: 60px;
 }
 
+a:hover{
+    border-bottom: 3px solid rgb(31, 177, 235);
+}
+
 .background_knowledge{
     color:beige
   } 
