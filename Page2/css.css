@@ -96,17 +96,27 @@ a:hover{
         border-bottom: 3px solid rgb(31, 177, 235);
     }
 
-.movies{
+#main{
     height: 200px;
-    width: 1120px;
-    margin-left: 135px;
+    width: 1150px;
+    margin-left: 120px;
     margin-top: 15px;
+    
+
 }
 
-    .movies__1{
+.movie{
+    color:azure;
+    
+}
+    .movie__1{
         height: 180px;
-        width: 140px;
+        width: 100px;
         margin-left: 10px;
+        margin-bottom: 5px;
+        float: left;
+        
+        
     }
 
 .button{
